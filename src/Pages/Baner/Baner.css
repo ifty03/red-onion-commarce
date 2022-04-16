@@ -1,0 +1,5 @@
+.baner-image-container{
+    background-image: url("../../images/bannerbackground.png");
+    background-size:cover;
+   width: auto;
+}
